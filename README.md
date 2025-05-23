@@ -1,13 +1,15 @@
 
 # Hi, I'm Joseph Lang! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-🔭 I’m currently working as **Freelance Software Engineer**
+💡 Building innovative solutions that make a positive impact.
 
-🌱 I’m currently learning **Next.js - Backend**
+🚀 I use daily: TypeScript, Next.js, Git, Node.js, VS Code, Tailwind CSS
 
-👯 I’m looking to collaborate on open source/commercial projects
+🌱 I love exploring new technologies and coding challenges.
 
-💬 Ask me about **Web Development**
+⚡️ Fun fact: I'm a huge fan of Bat Man, I love to eat and travel
+
+🍵 Tea Enthusiast: Can't start my day without a warm cup of tea.
 
 📫 How to reach me: **[Email](langj6757@gmail.com), [LinkedIn](https://www.linkedin.com/in/joseph-lang-dev/)**
 
