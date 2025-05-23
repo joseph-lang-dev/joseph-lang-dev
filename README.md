@@ -7,8 +7,6 @@
 
 🌱 I love exploring new technologies and coding challenges.
 
-⚡️ Fun fact: I'm a huge fan of Bat Man, I love to eat and travel
-
 🍵 Tea Enthusiast: Can't start my day without a warm cup of tea.
 
 📫 How to reach me: **[Email](langj6757@gmail.com), [LinkedIn](https://www.linkedin.com/in/joseph-lang-dev/)**
