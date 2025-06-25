@@ -3,13 +3,13 @@
 
 💡 Building innovative solutions that make a positive impact.
 
-🚀 I use daily: TypeScript, Next.js, Git, Node.js, VS Code, Tailwind CSS
+🚀 I use daily: TypeScript, Next.js, Git, VS Code, Tailwind CSS
 
 🌱 I love exploring new technologies and coding challenges.
 
 🍵 Tea Enthusiast: Can't start my day without a warm cup of tea.
 
-📫 How to reach me: **[Email](langj6757@gmail.com), [LinkedIn](https://www.linkedin.com/in/joseph-lang-dev/)**
+📫 How to reach me: **[Email](josephlangdev@gmail.com), [LinkedIn](https://www.linkedin.com/in/joseph-lang-dev/)**
 
 ## My Skills - Technologies I use
 
